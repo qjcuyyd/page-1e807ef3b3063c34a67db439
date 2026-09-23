@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "310f322a059cf28feab065fa",
+  "owner": "qjcuyyd",
+  "repo": "page-1e807ef3b3063c34a67db439",
+  "title": "壹酷云(YEEKU)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1e807ef3b3063c34a67db439",
+      "a": "壹酷云(YEEKU)",
+      "b": "稳定全球clash加速器",
+      "entity": "壹酷云(YEEKU)",
+      "brand": "壹酷云(YEEKU)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b828a305f7f060603c37f30fc0994eebc7c8018192cf83d0743cd25384c27abe",
+      "content": {
+        "primary_entity": "壹酷云(YEEKU)",
+        "keyword1": "壹酷云(YEEKU)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择 Clash 客户端，按客户端文档导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选好套餐并配置订阅，即可开始使用壹酷云。",
+          "AI_CLOSING_TITLE": "立即配置壹酷云",
+          "AI_DESCRIPTION": "，提供多档套餐与全球节点选择，支持 Clash 客户端订阅导入，适合个人日常、流媒体与跨境办公场景。基础版每月 100GB 流量、3 台设备在线，旗舰版每月 300GB 流量、5 台设备在线并含 IPLC 专线，团队版每月 1000GB 流量、20 台设备在线。可按月或按年付费，按年付更划算。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量与订阅周期三个角度了解壹酷云。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版 300GB、团队版 1000GB，按需匹配个人或团队流量消耗。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线，多设备用户可升级档位。",
+          "AI_FEATURE_TEXT_3": "支持月付与年付，按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "多档流量套餐",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "按周期选付费",
+          "AI_GUIDE_INTRO": "三步完成壹酷云套餐选择与客户端订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "壹酷云(YEEKU)提供多档全球网络加速套餐，支持 Clash 客户端订阅导入，覆盖日常浏览、流媒体与跨境办公需求。三档套餐在流量、设备数量与线路质量上逐级提升，可按月或按年选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "基础版 100GB 流量 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备高带宽节点",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数量与线路特性，按使用规模选择合适档位。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，从基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与同时在线数量要求，查看套餐适配条件。",
+          "AI_STEP_TEXT_3": "按所用 Clash 客户端的配置文档导入订阅，完成连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "壹酷云套餐选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "壹酷云支持哪些设备类型？",
+          "AI_FAQ_ANSWER_1": "支持常见桌面与移动平台客户端，具体可在对应客户端文档中查看适配范围。不同系统的配置方式略有差异。",
+          "AI_FAQ_QUESTION_2": "基础版与旗舰版如何选择？",
+          "AI_FAQ_ANSWER_2": "看流量与设备数。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含游戏加速优化，适合多场景使用。",
+          "AI_FAQ_QUESTION_3": "订阅导入失败怎么办？",
+          "AI_FAQ_ANSWER_3": "先核对订阅链接是否完整，再确认客户端版本与配置步骤。可尝试重新导入订阅或更换客户端内的节点。",
+          "AI_FAQ_QUESTION_4": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相比按月支付，年付对应更长使用周期，单价更划算。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB、支持 20 台设备，并提供 VIP 高带宽节点与定制路由，适合多人协作与高流量使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fpscw.cn",
+    "host": "fpscw.cn"
+  },
+  "file_hashes": {
+    "index.html": "45fef72bc63a8ebc5882fb954882d8ba93bf6ee5de205163392b895753173a19",
+    "sitemap.xml": "a1bea00752e3edefd09e1ec36f52d0140b905b2a05d81bf6c2151787c10a11dd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fa90ae8654cba3bf793bfbeffea632955fd75e23be99d3c9b4062435a305e20a",
+    "robots.txt": "98a84d76bee0486e3550b6ce41b4af1aff2f831420c76e1b8a6031ac2972d169",
+    "a6afc2a3ddfc47a9a35e815ef021e039.txt": "e4057a486cca7ee173491406bda9e3893f7938137773ebacf2e5894bf6723ef0"
+  },
+  "revision": "c2097efffa0a7cf6901907f5098f5cad5e2d97ea541212e141f98decff220233"
+}
